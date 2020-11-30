@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Phongnarin</h1>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=fooku&count_private=true" /></p>
+
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fooku&layout=compact&hide=html" alt="saowaluck" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fooku&show_icons=true" alt="fooku" />
+</div>
+
 
 <!--
 **fooku/fooku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
